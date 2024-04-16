@@ -1,0 +1,1 @@
+import{_}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{b as o,o as l,c as r,e,w as c}from"./index-BhOpFGs-.js";const s={};function m(f,i){const t=o("Female"),n=o("el-icon"),a=o("Search");return l(),r("div",null,[e(n,null,{default:c(()=>[e(t)]),_:1}),e(n,null,{default:c(()=>[e(a)]),_:1})])}const u=_(s,[["render",m]]);export{u as default};
